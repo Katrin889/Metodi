@@ -1,0 +1,7 @@
+C:\Users\1409-11\Desktop\9a Katrin\Metodi\Metodi\bin\Debug\Metodi.exe.config
+C:\Users\1409-11\Desktop\9a Katrin\Metodi\Metodi\bin\Debug\Metodi.exe
+C:\Users\1409-11\Desktop\9a Katrin\Metodi\Metodi\bin\Debug\Metodi.pdb
+C:\Users\1409-11\Desktop\9a Katrin\Metodi\Metodi\obj\Debug\Metodi.csproj.AssemblyReference.cache
+C:\Users\1409-11\Desktop\9a Katrin\Metodi\Metodi\obj\Debug\Metodi.csproj.CoreCompileInputs.cache
+C:\Users\1409-11\Desktop\9a Katrin\Metodi\Metodi\obj\Debug\Metodi.exe
+C:\Users\1409-11\Desktop\9a Katrin\Metodi\Metodi\obj\Debug\Metodi.pdb
